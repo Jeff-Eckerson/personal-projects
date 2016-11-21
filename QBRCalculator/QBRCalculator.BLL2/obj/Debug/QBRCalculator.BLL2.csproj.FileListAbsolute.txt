@@ -1,0 +1,4 @@
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.BLL2\bin\Debug\QBRCalculator.BLL2.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.BLL2\bin\Debug\QBRCalculator.BLL2.pdb
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.BLL2\obj\Debug\QBRCalculator.BLL2.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.BLL2\obj\Debug\QBRCalculator.BLL2.pdb

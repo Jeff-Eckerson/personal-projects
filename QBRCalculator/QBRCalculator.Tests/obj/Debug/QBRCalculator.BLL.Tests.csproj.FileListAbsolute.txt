@@ -1,0 +1,9 @@
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\bin\Debug\QBRCalculator.Tests.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\bin\Debug\QBRCalculator.Tests.pdb
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\bin\Debug\QBRCalculator.BLL2.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\bin\Debug\QBRCalculator.BLL2.pdb
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\obj\Debug\QBRCalculator.BLL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\obj\Debug\QBRCalculator.Tests.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator.Tests\obj\Debug\QBRCalculator.Tests.pdb

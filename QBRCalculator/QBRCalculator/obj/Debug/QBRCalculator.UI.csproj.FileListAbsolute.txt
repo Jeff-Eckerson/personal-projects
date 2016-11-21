@@ -1,0 +1,8 @@
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\bin\Debug\QBRCalculator.exe.config
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\bin\Debug\QBRCalculator.exe
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\bin\Debug\QBRCalculator.pdb
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\bin\Debug\QBRCalculator.BLL2.dll
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\bin\Debug\QBRCalculator.BLL2.pdb
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\obj\Debug\QBRCalculator.UI.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\obj\Debug\QBRCalculator.exe
+C:\Users\apprentice\Documents\repositories\jeffrey-eckerson-individual-work\Week 10\QBRCalculator\QBRCalculator\obj\Debug\QBRCalculator.pdb
